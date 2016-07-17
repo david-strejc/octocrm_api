@@ -1,2 +1,2 @@
-# Ruby API script for managit OctoCRM
+# Ruby API script for managing OctoCRM
 
